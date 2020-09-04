@@ -40,24 +40,26 @@
 
 <br>
 
-<details>
-  <summary>:zap: Github Stats</summary>
+### Github Stats
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=eon2208&show_icons=true&hide_border=true" />
-
-</details>
-
+  
 </br>
 
-<details>
-  
-  <summary>:zap: Recent Github Activity</summary>
-  
-  <!--START_SECTION:waka-->
+### Recent Github Activity
+ 
+ <!--START_SECTION:activity-->
+ 
+ <!--END_SECTION:activity-->
+ 
+ <hr>
+ 
+### Some Statistics 
 
-   <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
 
-</details>
+<!--END_SECTION:waka-->
+
 
 <p align="center">
 <a href="https://linkedin.com/in/arek dankiewicz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arek dankiewicz" height="30" width="30" /></a>
