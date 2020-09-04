@@ -37,22 +37,23 @@
 ### Github Stats
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=eon2208&show_icons=true&hide_border=true" /></p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eon2208&layout=compact" alt="eon2208" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eon2208&layout=compact" alt="eon2208" />
   
 ---
-
- 
+<br />
+<p>
  <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com//eon2208/PizzaRestaurant/pull/3) in [eon2208/PizzaRestaurant](https://github.com//eon2208/PizzaRestaurant)
  <!--END_SECTION:activity-->
- 
+</p>
 ---
  
-
+<br />
+<p>
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-
+</p>
 
 <p align="center">
 <a href="https://linkedin.com/in/arek dankiewicz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arek dankiewicz" height="30" width="30" /></a>
