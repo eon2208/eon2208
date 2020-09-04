@@ -87,6 +87,11 @@ Sunday       8 commits      ██░░░░░░░░░░░░░░░�
 </details>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com//eon2208/PizzaRestaurant/pull/3) in [eon2208/PizzaRestaurant](https://github.com//eon2208/PizzaRestaurant)
+2. 💪 Opened PR [#3](https://github.com//eon2208/PizzaRestaurant/pull/3) in [eon2208/PizzaRestaurant](https://github.com//eon2208/PizzaRestaurant)
+3. 🎉 Merged PR [#2](https://github.com//eon2208/PizzaRestaurant/pull/2) in [eon2208/PizzaRestaurant](https://github.com//eon2208/PizzaRestaurant)
+4. 💪 Opened PR [#2](https://github.com//eon2208/PizzaRestaurant/pull/2) in [eon2208/PizzaRestaurant](https://github.com//eon2208/PizzaRestaurant)
+5. 🎉 Merged PR [#1](https://github.com//eon2208/PizzaRestaurant/pull/1) in [eon2208/PizzaRestaurant](https://github.com//eon2208/PizzaRestaurant)
 <!--END_SECTION:activity-->
 
 
