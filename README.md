@@ -38,15 +38,26 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eon2208&layout=compact" alt="eon2208" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eon2208&show_icons=true&" alt="eon2208" /></p>
+<br>
 
-<!--START_SECTION:waka-->
+<details>
+  <summary>:zap: Github Stats</summary>
 
-<!--END_SECTION:waka-->
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=eon2208&show_icons=true&hide_border=true" />
 
-<!--START_SECTION:activity-->
+</details>
 
-<!--END_SECTION:activity-->
+</br>
+
+<details>
+  
+  <summary>:zap: Recent Github Activity</summary>
+  
+  <!--START_SECTION:waka-->
+
+   <!--END_SECTION:waka-->
+
+</details>
 
 <p align="center">
 <a href="https://linkedin.com/in/arek dankiewicz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arek dankiewicz" height="30" width="30" /></a>
