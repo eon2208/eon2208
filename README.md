@@ -1,5 +1,5 @@
-### Hi 👋, I'm Arek - aka EoN
-## A young student on Lublin Univeristy of Technology and Young hobbist of Java
+<h1> Hi 👋, I'm Arek - aka EoN </h1>
+<h3> Student on Lublin Univeristy of Technology and big hobbist of Java</h3>
 
 - 🔭 I’m currently working on [Restaurant Project](https://github.com/eon2208/PizzaRestaurant)
 
