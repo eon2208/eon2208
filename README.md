@@ -15,10 +15,6 @@
 
 - ⚡ Fun fact **I love to cook ! 🍖🍳**
 
-<!---
-### Spotify Playing 🎧
-[<img src="https://novatorem.eon2208.vercel.app/api/spotify-playing" alt="EoN Spotify Playing" width="350" />](https://open.spotify.com/user/ardankiewicz)
--->
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
@@ -34,27 +30,24 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </p>
 
-<hr>
+<br />
+<br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eon2208&layout=compact" alt="eon2208" /></p>
-
-<br>
 
 ### Github Stats
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=eon2208&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=eon2208&show_icons=true&hide_border=true" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eon2208&layout=compact" alt="eon2208" /></p>
   
-</br>
+---
 
-### Recent Github Activity
  
  <!--START_SECTION:activity-->
  
  <!--END_SECTION:activity-->
  
- <hr>
+---
  
-### Some Statistics 
 
 <!--START_SECTION:waka-->
 
