@@ -43,7 +43,7 @@
 
  
  <!--START_SECTION:activity-->
- 
+1. 🎉 Merged PR [#3](https://github.com//eon2208/PizzaRestaurant/pull/3) in [eon2208/PizzaRestaurant](https://github.com//eon2208/PizzaRestaurant)
  <!--END_SECTION:activity-->
  
 ---
