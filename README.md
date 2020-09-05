@@ -95,9 +95,6 @@ Sunday       8 commits      ██░░░░░░░░░░░░░░░�
 <!--END_SECTION:activity-->
 
 
-
-
-
 <p align="center">
 <a href="https://linkedin.com/in/arek dankiewicz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arek dankiewicz" height="30" width="30" /></a>
 <a href="https://instagram.com/eon2208" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="eon2208" height="30" width="30" /></a>
