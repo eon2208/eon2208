@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Restaurant Project](https://github.com/eon2208/PizzaRestaurant)
 
-- 🌱 I’m currently learning **Java, Spring, Hibernate,Angular**
+- 🌱 I’m currently learning **Java, Spring, Hibernate, Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/eon2208?tab=repositories](https://github.com/eon2208?tab=repositories)
 
