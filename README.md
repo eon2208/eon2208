@@ -71,18 +71,6 @@ Sunday       9 commits      ██░░░░░░░░░░░░░░░�
 </p>
 
 
-<details>
-  <summary>:zap: Github Stats</summary>
- <p>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=eon2208&show_icons=true&hide_border=true" /></p>
- </p>
- <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eon2208&layout=compact" alt="eon2208" /></p>
- </p>
-</details>
-
-
-
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#5](https://github.com//eon2208/PizzaRestaurant/pull/5) in [eon2208/PizzaRestaurant](https://github.com//eon2208/PizzaRestaurant)
 2. 💪 Opened PR [#5](https://github.com//eon2208/PizzaRestaurant/pull/5) in [eon2208/PizzaRestaurant](https://github.com//eon2208/PizzaRestaurant)
@@ -90,6 +78,12 @@ Sunday       9 commits      ██░░░░░░░░░░░░░░░�
 4. 💪 Opened PR [#4](https://github.com//eon2208/PizzaRestaurant/pull/4) in [eon2208/PizzaRestaurant](https://github.com//eon2208/PizzaRestaurant)
 5. 🎉 Merged PR [#3](https://github.com//eon2208/PizzaRestaurant/pull/3) in [eon2208/PizzaRestaurant](https://github.com//eon2208/PizzaRestaurant)
 <!--END_SECTION:activity-->
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=eon2208&show_icons=true&hide_border=true" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eon2208&layout=compact" alt="eon2208" /></p>
+</details>
 
 
 <p align="center">
