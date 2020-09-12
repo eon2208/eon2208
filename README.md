@@ -53,7 +53,6 @@ Sunday       9 commits      ██░░░░░░░░░░░░░░░�
 
 ```
 
-
 <!--END_SECTION:waka-->
 
 <p align="center">
@@ -74,11 +73,15 @@ Sunday       9 commits      ██░░░░░░░░░░░░░░░�
 
 <details>
   <summary>:zap: Github Stats</summary>
-
+ <p>
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=eon2208&show_icons=true&hide_border=true" /></p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eon2208&layout=compact" alt="eon2208" /></p>
-
+ </p>
+ <p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eon2208&layout=compact" alt="eon2208" /></p>
+ </p>
 </details>
+
+
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#5](https://github.com//eon2208/PizzaRestaurant/pull/5) in [eon2208/PizzaRestaurant](https://github.com//eon2208/PizzaRestaurant)
