@@ -1,19 +1,19 @@
 <h1> Hi 👋, I'm Arek - aka EoN </h1>
 <h3> Student on Lublin Univeristy of Technology and hobbist of Java</h3>
 
-- 🔭 I’m currently working on RestaurantProject (Angular, SpringBoot)
+- 🔭 I’m currently working on: **RestaurantProject (Angular, SpringBoot)**[https://github.com/eon2208/favouriteRestaurant]
 
-- 🌱 I’m currently learning **Java, Spring, Hibernate, Angular**
+- 🌱 I’m currently learning: **Java, Spring, Hibernate, Angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/eon2208?tab=repositories](https://github.com/eon2208?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/eon2208?tab=repositories](https://github.com/eon2208?tab=repositories)
 
 - 🥅 2020 Goals: **Sistematic work and self-development**
 
-- 📖 Currently reading **Clean Code wrote by Robert C. Martin**
+- 📖 Currently reading: **Clean Code wrote by Robert C. Martin**
 
-- 📫 How to reach me **ardankiewicz@gmail.com**
+- 📫 How to reach me: **ardankiewicz@gmail.com**
 
-- ⚡ Fun fact **I love to cook ! 🍖🍳**
+- ⚡ Fun fact: **I love to cook ! 🍖🍳**
 
 - 💻 [My very first website][website] 
 
@@ -51,12 +51,6 @@ Friday       38 commits     ███████░░░░░░░░░░�
 Saturday     10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.25% 
 Sunday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.7%
 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
 ```
 
 
