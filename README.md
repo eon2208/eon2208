@@ -1,11 +1,11 @@
 <h1> Hi 👋, I'm Arek - aka EoN </h1>
 <h3> Student on Lublin Univeristy of Technology and hobbist of Java</h3>
 
-- 🔭 I’m currently working on: **RestaurantProject (Angular, SpringBoot)**[currentlyWorking]
+- 🔭 I’m currently working on: **RestaurantProject (Angular, SpringBoot): **[EonSnack]
 
 - 🌱 I’m currently learning: **Java, Spring, Hibernate, Angular**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/eon2208?tab=repositories](https://github.com/eon2208?tab=repositories)
+- 👨‍💻 All of my projects are available at: [Repository]
 
 - 🥅 2020 Goals: **Sistematic work and self-development**
 
@@ -93,4 +93,5 @@ Sunday       12 commits     ██░░░░░░░░░░░░░░░�
 </p>
 
 [website]: https://jardan.biz/
-[currentlyWorking]: https://github.com/eon2208/favouriteRestaurant/
+[EonSnack]: https://github.com/eon2208/favouriteRestaurant/
+[Repository]: https://github.com/eon2208?tab=repositories
