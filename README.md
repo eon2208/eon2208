@@ -78,14 +78,6 @@ Sunday       12 commits     ██░░░░░░░░░░░░░░░�
 </p>
 
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/eon2208/Book_Land/pull/13) in [eon2208/Book_Land](https://github.com/eon2208/Book_Land)
-2. 🎉 Merged PR [#8](https://github.com/eon2208/Book_Land/pull/8) in [eon2208/Book_Land](https://github.com/eon2208/Book_Land)
-3. 🎉 Merged PR [#16](https://github.com/eon2208/Book_Land/pull/16) in [eon2208/Book_Land](https://github.com/eon2208/Book_Land)
-4. 🎉 Merged PR [#7](https://github.com/eon2208/Book_Land/pull/7) in [eon2208/Book_Land](https://github.com/eon2208/Book_Land)
-5. 🎉 Merged PR [#14](https://github.com//eon2208/Book_Land/pull/14) in [eon2208/Book_Land](https://github.com//eon2208/Book_Land)
-<!--END_SECTION:activity-->
-
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=eon2208&show_icons=true&hide_border=true" />
