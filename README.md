@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning: **Java, Spring, Hibernate, Angular**
 
-- 👨‍💻 All of my projects are available at: [Repository]
-
+<!--- - 👨‍💻 All of my projects are available at: [Repository] --->
 - 🥅 2020 Goals: **Sistematic work and self-development**
 
 - 📖 Currently reading: **Clean Code wrote by Robert C. Martin**
