@@ -1,7 +1,7 @@
 <h1> Hi 👋, I'm Arek - aka EoN </h1>
 <h3> Student on Lublin Univeristy of Technology and hobbist of Java</h3>
 
-- 🔭 I’m currently working on Engineer's Thesis: **RestaurantProject (RxJava, React, SpringBoot):**
+- 🔭 I’m currently working on Engineer's Thesis: **EonEats (RxJava, React, SpringBoot):**
 
 - 🌱 I’m currently learning: **Java, RxJava, React**
 
