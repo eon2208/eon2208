@@ -1,9 +1,9 @@
 <h1> Hi 👋, I'm Arek - aka EoN </h1>
 <h3> Student on Lublin Univeristy of Technology and hobbist of Java</h3>
 
-- 🔭 I’m currently working on: **RestaurantProject (Angular, SpringBoot):** [EonSnack]
+- 🔭 I’m currently working on Engineer's Thesis: **RestaurantProject (RxJava, React, SpringBoot):**
 
-- 🌱 I’m currently learning: **Java, Spring, Hibernate, Angular**
+- 🌱 I’m currently learning: **Java, RxJava, React**
 
 <!--- - 👨‍💻 All of my projects are available at: [Repository] --->
 - 🥅 2021 Goals: **Sistematic work and self-development**
